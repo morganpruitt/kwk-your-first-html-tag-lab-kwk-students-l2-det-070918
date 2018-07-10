@@ -63,7 +63,6 @@ you're stuck, here's me walking you through how this works._
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/first-html-tag-lab'>First HTML Tag</a> on Learn.co and start learning to code for free.</p>
 
-<h1> Hello World! </h1>
 
 
 
